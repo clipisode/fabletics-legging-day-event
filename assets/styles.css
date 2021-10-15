@@ -45,23 +45,22 @@ body {
   );
 }
 
-#introScreen #introHostName,
-#introScreen #introHostName2 {
+#introScreen #introHostName {
   font-family: "Assistant";
   margin: 2rem 4rem 0 1.5rem;
+  text-shadow: 1px 1px 3px #00000077;
 }
 
-#introScreen #introTitle,
-#introScreen #introTitle2 {
+#introScreen #introTitle {
   font-family: "Assistant";
   font-weight: 700;
   margin: 2rem 1.5rem 0 1.5rem;
   font-size: 1.8rem;
   line-height: 1.1;
+  text-shadow: 1px 1px 3px #00000077;
 }
 
-#introScreen #introTitle p,
-#introScreen #introTitle2 p {
+#introScreen #introTitle p {
   margin: 1.5rem 0 0 0;
 }
 
